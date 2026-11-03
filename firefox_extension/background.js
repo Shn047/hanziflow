@@ -1,7 +1,7 @@
 // --- CONFIGURATION ---
 const FASTAPI_URL = 'http://192.168.1.173:8000/api/v1/segment'; 
 const ANALYZE_URL = 'http://192.168.1.173:8000/api/v1/analyze';
-const INTERNAL_API_KEY = 'my-secret-key-for-firefox-123'; 
+const INTERNAL_API_KEY = YOUR_API_KEY; 
 
 console.log("--- HanziFlow: background.js SCRIPT RUNNING ---");
 
